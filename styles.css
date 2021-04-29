@@ -2,6 +2,7 @@
 h1{
     color: #38B2AC;
     font-size: 24px;
+    text-align: center;
 }
 
 h2{
@@ -11,4 +12,10 @@ h2{
 
 p{
     font-size: 18px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+
 }
